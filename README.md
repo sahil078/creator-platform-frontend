@@ -1,7 +1,7 @@
 
 # Creator Platform – Frontend
 
-This is the **Frontend** for the **Creator Platform**, a modern web application designed for content creators to manage, analyze, and scale their digital businesses. The frontend is built with **Next.js**, **TailwindCSS**, **TypeScript**, and integrates with the backend API for full-stack functionality.
+This is the **Frontend** for the **Creator Platform**, a modern web application designed for content creators to manage, analyze, and scale their digital businesses. The frontend is built with **Next.js**, **TailwindCSS**, **TypeScript**, and integrates with the backend API for full-stack functionality.  
 
 ---
 
